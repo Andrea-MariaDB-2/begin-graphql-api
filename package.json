@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@architect/architect": "^5.7.0",
-    "@begin/data": "latest",
+    "@begin/data": "1.2.3",
     "aws-sdk": "^2.436.0",
     "eslint": "^5.15.1",
     "tap-spec": "^5.0.0",
